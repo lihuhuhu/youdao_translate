@@ -20,5 +20,5 @@ pip install -r requirements.txt
 
 
 ## 交流
-[teleram](https://t.me/lihuhuhuhu)
+[telegram](https://t.me/lihuhuhuhu)
 可出魔改md5还原，过f12检测
